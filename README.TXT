@@ -1,3 +1,4 @@
+just a fork for the google code project produced by google android team.
 Apps for Android is a collection of sample applications for the
 Android platform.
 
